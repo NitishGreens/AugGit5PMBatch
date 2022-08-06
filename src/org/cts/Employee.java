@@ -11,4 +11,8 @@ public class Employee {
 		e.test1();
 	}
 
+	public void test2() {
+		System.out.println("test2");
+	}
+
 }
